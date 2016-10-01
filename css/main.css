@@ -287,8 +287,8 @@ textarea {
 
 a.typeform-share.button {
   padding: 0 1em;
-  font-weight: bold;
-  border: solid #6354f3 6px;
+  font-weight: normal;
+  border: solid #6354f3 3px;
   border-radius: 10px;
   background: white;
   color: #6354f3;
