@@ -705,6 +705,9 @@ font-size: 18px;
     margin: 0.2em;
     text-align: center;
   }
+  .panel.hello a.button {
+    margin: 0 0 -0.3em 0;
+  }
 
   .brexit-popup {
     width: 80vw;
