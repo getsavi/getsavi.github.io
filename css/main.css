@@ -465,6 +465,7 @@ font-size: 18px;
 .panel h2, .panel h3, .panel h4 {
   text-align: center;
   color: #6354f3;
+  font-weight: 400;
 }
 .panel h2 {
   font-size: 2.5em;
